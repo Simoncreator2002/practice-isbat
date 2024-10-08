@@ -1,2 +1,1 @@
-# practice-isbat
-practice
+addded a readme file
